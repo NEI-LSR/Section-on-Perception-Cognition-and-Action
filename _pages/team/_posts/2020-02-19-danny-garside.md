@@ -3,7 +3,7 @@ layout: member
 category: staff
 title: Danny Garside
 image: danny-garside.png
-role: Visiting Fellow (postdoc)
+role: Post-doctoral Visting Fellow
 permalink: 'team/danny-garside'
 social:
     twitter: https://twitter.com/da5nsy
