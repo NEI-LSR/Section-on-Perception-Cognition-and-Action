@@ -1,4 +1,4 @@
-Website for the Conway Color Lab.
+Website for the Section on Perception, Cognition, and Action.
 
 See it rendered at https://nei-lsr.github.io/Section-on-Perception-Cognition-and-Action/
 
