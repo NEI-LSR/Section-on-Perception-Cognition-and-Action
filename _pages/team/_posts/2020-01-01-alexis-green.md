@@ -3,7 +3,7 @@ layout: member
 category: staff
 title: Alexis Green
 image: alexis-green.png
-role: Post-bac
+role: Post Baccalaureate Research Fellow
 permalink: '/team/alexis-green'
 social:
     orcid: 
