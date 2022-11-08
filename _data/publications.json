@@ -1,40 +1,19 @@
-[
-	{
-		"id": "http://zotero.org/groups/2386072/items/NU9LTX7C",
-		"type": "article-journal",
-		"title": "Segmentation of Nuclei in Histopathology Images by Deep Regression of the Distance Map",
-		"container-title": "IEEE Transactions on Medical Imaging",
-		"page": "448-459",
-		"volume": "38",
-		"issue": "2",
-		"source": "IEEE Xplore",
-		"abstract": "The advent of digital pathology provides us with the challenging opportunity to automatically analyze whole slides of diseased tissue in order to derive quantitative profiles that can be used for diagnosis and prognosis tasks. In particular, for the development of interpretable models, the detection and segmentation of cell nuclei is of the utmost importance. In this paper, we describe a new method to automatically segment nuclei from Haematoxylin and Eosin (H&E) stained histopathology data with fully convolutional networks. In particular, we address the problem of segmenting touching nuclei by formulating the segmentation problem as a regression task of the distance map. We demonstrate superior performance of this approach as compared to other approaches using Convolutional Neural Networks.",
-		"DOI": "10.1109/TMI.2018.2865709",
-		"author": [
-			{
-				"family": "Naylor",
-				"given": "P."
-			},
-			{
-				"family": "Laé",
-				"given": "M."
-			},
-			{
-				"family": "Reyal",
-				"given": "F."
-			},
-			{
-				"family": "Walter",
-				"given": "T."
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2019",
-					2
-				]
-			]
-		}
-	}
-]
+
+@article{conway_color_2006,
+	title = {Color architecture in alert macaque cortex revealed by {FMRI}},
+	volume = {16},
+	issn = {1047-3211},
+	doi = {10.1093/cercor/bhj099},
+	abstract = {The contribution that different brain areas make to primate color vision, especially in the macaque, is debated. Here we used functional magnetic resonance imaging in the alert macaque, giving a whole brain perspective of color processing in the healthy brain. We identified color-biased and luminance-biased activity and color-afterimage activity. Color-biased activity was found in V1, V2, and parts of V4 and not in V3a, MT, or other dorsal stream areas, in which a luminance bias predominated. Color-biased activity and color-afterimage activity were also found in a region on the posterior bank of the superior temporal sulcus. We review anatomical and physiological studies that describe this region, PITd, and postulate that it is distinct from areas V4 and TEO. When taken together with single-unit studies and lesion studies, our results suggest that color depends on a connected ventral-stream pathway involving at least V1, V2, V4, and PITd.},
+	language = {eng},
+	number = {11},
+	journal = {Cerebral Cortex (New York, N.Y.: 1991)},
+	author = {Conway, Bevil R. and Tsao, Doris Y.},
+	month = nov,
+	year = {2006},
+	pmid = {16400160},
+	pmcid = {PMC9100861},
+	keywords = {Animals, Cerebral Cortex, Color Perception, Data Interpretation, Statistical, Macaca mulatta, Magnetic Resonance Imaging, Male, Models, Neurological, Nerve Net, Oxygen, Photic Stimulation, Stereotaxic Techniques, Visual Cortex},
+	pages = {1604--1613},
+	file = {Full Text:C\:\\Users\\garsidedj\\Zotero\\storage\\UQBY68EE\\Conway and Tsao - 2006 - Color architecture in alert macaque cortex reveale.pdf:application/pdf},
+}
