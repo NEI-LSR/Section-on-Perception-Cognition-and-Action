@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Conway Color Lab
+title: Section on Perception, Cognition, and Action
 email: bevil@nih.gov
 description: > # this means to ignore newlines until "baseurl:"
-  The Conway Color Lab performs research on the subject of primate color vision, and uses color to investigate more general properties of the primate visual system.
+  The Section on Perception, Cognition, and Action performs research on the subject of primate color vision, and uses color to investigate more general properties of the primate visual system.
 baseurl: "/Section-on-Perception-Cognition-and-Action"
 url: ""
 
