@@ -24,12 +24,7 @@ permalink: /publications/
             {{ authors | array_to_sentence_string }},
 
             <!-- title with link -->
-            "<b>{{ publi.title }}</b>",
-
-            <!--
-            <!-- container -->
-            <b>{{ publi.container-title }}</b>
-            -->
+            <b>{{ publi.title }}</b>,
 
             <!-- issued date -->
             ({{ publi.issued.date-parts | jsonify | slice: 3,4 }}),
