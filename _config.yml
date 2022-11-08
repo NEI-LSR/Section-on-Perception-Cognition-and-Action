@@ -10,7 +10,7 @@ title: Conway Color Lab
 email: bevil@nih.gov
 description: > # this means to ignore newlines until "baseurl:"
   The Conway Color Lab performs research on the subject of primate color vision, and uses color to investigate more general properties of the primate visual system.
-baseurl: "nei-lsr.github.io/Section-on-Perception-Cognition-and-Action"
+baseurl: "/Section-on-Perception-Cognition-and-Action"
 url: ""
 
 include:
