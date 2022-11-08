@@ -1,7 +1,6 @@
 ---
 title: "Home"
 layout: homelay
-excerpt: "Conway Color Lab"
 sitemap: false
 permalink: /
 ---
