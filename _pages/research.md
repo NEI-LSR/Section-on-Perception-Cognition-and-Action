@@ -1,7 +1,6 @@
 ---
 title: "Research"
 layout: default
-excerpt: "Conway Color Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
