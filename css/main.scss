@@ -4,8 +4,13 @@
 @import "bootstrap";
 
 body {
-  padding-top: 70px;
-  text-align: justify;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.page-content {
+    flex: 1;
 }
 
 figcaption {
