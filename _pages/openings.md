@@ -7,3 +7,4 @@ permalink: /vacancies
 ---
 
 We are always looking for new group members with X, Y and Z.
+Lorem ipsum
