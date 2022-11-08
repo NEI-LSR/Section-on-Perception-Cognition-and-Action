@@ -4,7 +4,7 @@ category: staff
 title: Danny Garside
 image: danny-garside.png
 role: Post-doctoral Visting Fellow
-permalink: '/team/danny-garside'
+permalink: 'Section-on-Perception-Cognition-and-Action/team/danny-garside'
 social:
     orcid: https://orcid.org/0000-0002-4579-003X
     github: https://github.com/da5nsy
