@@ -1,19 +1,762 @@
-
-@article{conway_color_2006,
-	title = {Color architecture in alert macaque cortex revealed by {FMRI}},
-	volume = {16},
-	issn = {1047-3211},
-	doi = {10.1093/cercor/bhj099},
-	abstract = {The contribution that different brain areas make to primate color vision, especially in the macaque, is debated. Here we used functional magnetic resonance imaging in the alert macaque, giving a whole brain perspective of color processing in the healthy brain. We identified color-biased and luminance-biased activity and color-afterimage activity. Color-biased activity was found in V1, V2, and parts of V4 and not in V3a, MT, or other dorsal stream areas, in which a luminance bias predominated. Color-biased activity and color-afterimage activity were also found in a region on the posterior bank of the superior temporal sulcus. We review anatomical and physiological studies that describe this region, PITd, and postulate that it is distinct from areas V4 and TEO. When taken together with single-unit studies and lesion studies, our results suggest that color depends on a connected ventral-stream pathway involving at least V1, V2, V4, and PITd.},
-	language = {eng},
-	number = {11},
-	journal = {Cerebral Cortex (New York, N.Y.: 1991)},
-	author = {Conway, Bevil R. and Tsao, Doris Y.},
-	month = nov,
-	year = {2006},
-	pmid = {16400160},
-	pmcid = {PMC9100861},
-	keywords = {Animals, Cerebral Cortex, Color Perception, Data Interpretation, Statistical, Macaca mulatta, Magnetic Resonance Imaging, Male, Models, Neurological, Nerve Net, Oxygen, Photic Stimulation, Stereotaxic Techniques, Visual Cortex},
-	pages = {1604--1613},
-	file = {Full Text:C\:\\Users\\garsidedj\\Zotero\\storage\\UQBY68EE\\Conway and Tsao - 2006 - Color architecture in alert macaque cortex reveale.pdf:application/pdf},
-}
+[
+	{
+		"id": "http://zotero.org/users/2428428/items/M9PNCRBC",
+		"type": "article-journal",
+		"container-title": "Journal of Vision",
+		"DOI": "10.1167/18.11.1",
+		"ISSN": "1534-7362",
+		"issue": "11",
+		"journalAbbreviation": "Journal of Vision",
+		"language": "en",
+		"note": "publisher: The Association for Research in Vision and Ophthalmology",
+		"page": "1-1",
+		"source": "jov.arvojournals.org",
+		"title": "Color statistics of objects, and color tuning of object cortex in macaque monkey",
+		"URL": "https://jov.arvojournals.org/article.aspx?articleid=2705814",
+		"volume": "18",
+		"author": [
+			{
+				"family": "Rosenthal",
+				"given": "Isabelle"
+			},
+			{
+				"family": "Ratnasingam",
+				"given": "Sivalogeswaran"
+			},
+			{
+				"family": "Haile",
+				"given": "Theodros"
+			},
+			{
+				"family": "Eastman",
+				"given": "Serena"
+			},
+			{
+				"family": "Fuller-Deets",
+				"given": "Josh"
+			},
+			{
+				"family": "Conway",
+				"given": "Bevil R."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					3,
+					6
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					10,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/2428428/items/UR75NSEM",
+		"type": "article-journal",
+		"abstract": "The lateral geniculate nucleus is thought to represent color using two populations of cone-opponent neurons [L vs M; S vs (L + M)], which establish the cardinal directions in color space (reddish vs cyan; lavender vs lime). How is this representation transformed to bring about color perception? Prior work implicates populations of glob cells in posterior inferior temporal cortex (PIT; the V4 complex), but the correspondence between the neural representation of color in PIT/V4 complex and the organization of perceptual color space is unclear. We compared color-tuning data for populations of glob cells and interglob cells to predictions obtained using models that varied in the color-tuning narrowness of the cells, and the color preference distribution across the populations. Glob cells were best accounted for by simulated neurons that have nonlinear (narrow) tuning and, as a population, represent a color space designed to be perceptually uniform (CIELUV). Multidimensional scaling and representational similarity analyses showed that the color space representations in both glob and interglob populations were correlated with the organization of CIELUV space, but glob cells showed a stronger correlation. Hue could be classified invariant to luminance with high accuracy given glob responses and above-chance accuracy given interglob responses. Luminance could be read out invariant to changes in hue in both populations, but interglob cells tended to prefer stimuli having luminance contrast, regardless of hue, whereas glob cells typically retained hue tuning as luminance contrast was modulated. The combined luminance/hue sensitivity of glob cells is predicted for neurons that can distinguish two colors of the same hue at different luminance levels (orange/brown).",
+		"container-title": "eNeuro",
+		"DOI": "10.1523/ENEURO.0039-16.2016",
+		"ISSN": "2373-2822",
+		"issue": "4",
+		"journalAbbreviation": "eNeuro",
+		"language": "en",
+		"license": "Copyright © 2016 Bohon et al.. This is an open-access article distributed under the terms of the Creative Commons Attribution 4.0 International, which permits unrestricted use, distribution and reproduction in any medium provided that the original work is properly attributed.",
+		"note": "Citation Key Alias: bohon_representation_2016-1",
+		"page": "ENEURO.0039-16.2016",
+		"source": "www.eneuro.org",
+		"title": "Representation of Perceptual Color Space in Macaque Posterior Inferior Temporal Cortex (the V4 Complex)",
+		"URL": "http://www.eneuro.org/content/3/4/ENEURO.0039-16.2016",
+		"volume": "3",
+		"author": [
+			{
+				"family": "Bohon",
+				"given": "Kaitlin S."
+			},
+			{
+				"family": "Hermann",
+				"given": "Katherine L."
+			},
+			{
+				"family": "Hansen",
+				"given": "Thorsten"
+			},
+			{
+				"family": "Conway",
+				"given": "Bevil R."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					7,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/2428428/items/3YVGIYL5",
+		"type": "article-journal",
+		"abstract": "How we see colors is a great mystery, but also a route to understanding how we experience any quale, because color does not exist in the world outside our brains, and is undetectable by other senses. From photoreception to primary visual cortex, the neural encoding and transmission of color signals is well understood, providing a foundation for understanding cortical computations of color appearance. We describe how probabilistic models coupled with fMRI-guided microelectrode recordings from inferior-temporal macaque cortex (IT) could help us understand color decoding: i.e. how appearance is extracted from the neuronal responses evoked by a stimulus. Neurons in IT respond to a narrow range of colors with their peak responses scattered around the color circle. We discuss how intra-cellular processes and cortical circuits could generate such tuning curves, and how they approximate optimal Bayesian decoders in winner-take-all schemes.",
+		"collection-title": "Visual perception",
+		"container-title": "Current Opinion in Behavioral Sciences",
+		"DOI": "10.1016/j.cobeha.2019.10.011",
+		"ISSN": "2352-1546",
+		"journalAbbreviation": "Current Opinion in Behavioral Sciences",
+		"language": "en",
+		"page": "169-177",
+		"source": "ScienceDirect",
+		"title": "Steps towards neural decoding of colors",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S2352154619300841",
+		"volume": "30",
+		"author": [
+			{
+				"family": "Zaidi",
+				"given": "Qasim"
+			},
+			{
+				"family": "Conway",
+				"given": "Bevil"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					2,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					12,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/2428428/items/9S257VRN",
+		"type": "article-journal",
+		"abstract": "Mantis shrimp and primates both possess good color vision, but the neural implementation in the two species is very different, a reflection of the largely unrelated evolutionary lineages of these creatures. Mantis shrimp have scanning compound eyes with 12 classes of photoreceptors, and have evolved a system to decode color information at the front-end of the sensory stream. Primates have image-focusing eyes with three classes of cones, and decode color further along the visual-processing hierarchy. Despite these differences, we report a fascinating parallel between the computational strategies at the color-decoding stage in the brains of stomatopods and primates. Both species appear to use narrowly tuned cells that support interval decoding color identification.",
+		"container-title": "i-Perception",
+		"DOI": "10.1068/i0662sas",
+		"ISSN": "2041-6695",
+		"issue": "6",
+		"journalAbbreviation": "i-Perception",
+		"language": "en",
+		"page": "492-496",
+		"source": "SAGE Journals",
+		"title": "Evolution of Neural Computations: Mantis Shrimp and Human Color Decoding",
+		"title-short": "Evolution of Neural Computations",
+		"URL": "https://doi.org/10.1068/i0662sas",
+		"volume": "5",
+		"author": [
+			{
+				"family": "Zaidi",
+				"given": "Qasim"
+			},
+			{
+				"family": "Marshall",
+				"given": "Justin"
+			},
+			{
+				"family": "Thoen",
+				"given": "Hanne"
+			},
+			{
+				"family": "Conway",
+				"given": "Bevil R."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					10,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/2428428/items/LFQYCUKD",
+		"type": "article-journal",
+		"abstract": "We present a full analysis of data from our preliminary report (Lafer-Sousa, Hermann, & Conway, 2015) and test whether #TheDress image is multistable. A multistable image must give rise to more than one mutually exclusive percept, typically within single individuals. Clustering algorithms of color-matching data showed that the dress was seen categorically, as white/gold (W/G) or blue/black (B/K), with a blue/brown transition state. Multinomial regression predicted categorical labels. Consistent with our prior hypothesis, W/G observers inferred a cool illuminant, whereas B/K observers inferred a warm illuminant; moreover, subjects could use skin color alone to infer the illuminant. The data provide some, albeit weak, support for our hypothesis that day larks see the dress as W/G and night owls see it as B/K. About half of observers who were previously familiar with the image reported switching categories at least once. Switching probability increased with professional art experience. Priming with an image that disambiguated the dress as B/K biased reports toward B/K (priming with W/G had negligible impact); furthermore, knowledge of the dress's true colors and any prior exposure to the image shifted the population toward B/K. These results show that some people have switched their perception of the dress. Finally, consistent with a role of attention and local image statistics in determining how multistable images are seen, we found that observers tended to discount as achromatic the dress component that they did not attend to: B/K reporters focused on a blue region, whereas W/G reporters focused on a golden region.",
+		"container-title": "Journal of Vision",
+		"DOI": "10.1167/17.12.25",
+		"ISSN": "1534-7362",
+		"issue": "12",
+		"journalAbbreviation": "J Vis",
+		"language": "eng",
+		"note": "PMID: 29090319\nPMCID: PMC5672910",
+		"page": "25",
+		"source": "PubMed",
+		"title": "#TheDress: Categorical perception of an ambiguous color image",
+		"title-short": "#TheDress",
+		"volume": "17",
+		"author": [
+			{
+				"family": "Lafer-Sousa",
+				"given": "Rosa"
+			},
+			{
+				"family": "Conway",
+				"given": "Bevil R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			],
+			"season": "01"
+		}
+	},
+	{
+		"id": "http://zotero.org/users/2428428/items/VVF8QS8C",
+		"type": "article-journal",
+		"abstract": "What determines how languages categorize colors? We analyzed results of the World Color Survey (WCS) of 110 languages to show that despite gross differences across languages, communication of chromatic chips is always better for warm colors (yellows/reds) than cool colors (blues/greens). We present an analysis of color statistics in a large databank of natural images curated by human observers for salient objects and show that objects tend to have warm rather than cool colors. These results suggest that the cross-linguistic similarity in color-naming efficiency reflects colors of universal usefulness and provide an account of a principle (color use) that governs how color categories come about. We show that potential methodological issues with the WCS do not corrupt information-theoretic analyses, by collecting original data using two extreme versions of the color-naming task, in three groups: the Tsimane', a remote Amazonian hunter-gatherer isolate; Bolivian-Spanish speakers; and English speakers. These data also enabled us to test another prediction of the color-usefulness hypothesis: that differences in color categorization between languages are caused by differences in overall usefulness of color to a culture. In support, we found that color naming among Tsimane' had relatively low communicative efficiency, and the Tsimane' were less likely to use color terms when describing familiar objects. Color-naming among Tsimane' was boosted when naming artificially colored objects compared with natural objects, suggesting that industrialization promotes color usefulness.",
+		"container-title": "Proceedings of the National Academy of Sciences",
+		"DOI": "10.1073/pnas.1619666114",
+		"ISSN": "0027-8424, 1091-6490",
+		"issue": "40",
+		"journalAbbreviation": "PNAS",
+		"language": "en",
+		"license": "©  . Freely available online through the PNAS open access option.",
+		"note": "PMID: 28923921",
+		"page": "10785-10790",
+		"source": "www.pnas.org",
+		"title": "Color naming across languages reflects color use",
+		"URL": "https://www.pnas.org/content/114/40/10785",
+		"volume": "114",
+		"author": [
+			{
+				"family": "Gibson",
+				"given": "Edward"
+			},
+			{
+				"family": "Futrell",
+				"given": "Richard"
+			},
+			{
+				"family": "Jara-Ettinger",
+				"given": "Julian"
+			},
+			{
+				"family": "Mahowald",
+				"given": "Kyle"
+			},
+			{
+				"family": "Bergen",
+				"given": "Leon"
+			},
+			{
+				"family": "Ratnasingam",
+				"given": "Sivalogeswaran"
+			},
+			{
+				"family": "Gibson",
+				"given": "Mitchell"
+			},
+			{
+				"family": "Piantadosi",
+				"given": "Steven T."
+			},
+			{
+				"family": "Conway",
+				"given": "Bevil R."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					12,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					10,
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/2428428/items/3QNWAH3N",
+		"type": "article-journal",
+		"abstract": "The existence of color-processing regions in the human ventral visual pathway (VVP) has long been known from patient and imaging studies, but their location in the cortex relative to other regions, their selectivity for color compared with other properties (shape and object category), and their relationship to color-processing regions found in nonhuman primates remain unclear. We addressed these questions by scanning 13 subjects with fMRI while they viewed two versions of movie clips (colored, achromatic) of five different object classes (faces, scenes, bodies, objects, scrambled objects). We identified regions in each subject that were selective for color, faces, places, and object shape, and measured responses within these regions to the 10 conditions in independently acquired data. We report two key findings. First, the three previously reported color-biased regions (located within a band running posterior–anterior along the VVP, present in most of our subjects) were sandwiched between face-selective cortex and place-selective cortex, forming parallel bands of face, color, and place selectivity that tracked the fusiform gyrus/collateral sulcus. Second, the posterior color-biased regions showed little or no selectivity for object shape or for particular stimulus categories and showed no interaction of color preference with stimulus category, suggesting that they code color independently of shape or stimulus category; moreover, the shape-biased lateral occipital region showed no significant color bias. These observations mirror results in macaque inferior temporal cortex (Lafer-Sousa and Conway, 2013), and taken together, these results suggest a homology in which the entire tripartite face/color/place system of primates migrated onto the ventral surface in humans over the course of evolution.\nSIGNIFICANCE STATEMENT Here we report that color-biased cortex is sandwiched between face-selective and place-selective cortex on the bottom surface of the brain in humans. This face/color/place organization mirrors that seen on the lateral surface of the temporal lobe in macaques, suggesting that the entire tripartite system is homologous between species. This result validates the use of macaques as a model for human vision, making possible more powerful investigations into the connectivity, precise neural codes, and development of this part of the brain. In addition, we find substantial segregation of color from shape selectivity in posterior regions, as observed in macaques, indicating a considerable dissociation of the processing of shape and color in both species.",
+		"container-title": "Journal of Neuroscience",
+		"DOI": "10.1523/JNEUROSCI.3164-15.2016",
+		"ISSN": "0270-6474, 1529-2401",
+		"issue": "5",
+		"journalAbbreviation": "J. Neurosci.",
+		"language": "en",
+		"license": "Copyright © 2016 Lafer-Sousa et al.. This article is freely available online through the J Neurosci Author Open Choice option.",
+		"note": "PMID: 26843649",
+		"page": "1682-1697",
+		"source": "www.jneurosci.org",
+		"title": "Color-Biased Regions of the Ventral Visual Pathway Lie between Face- and Place-Selective Regions in Humans, as in Macaques",
+		"URL": "https://www.jneurosci.org/content/36/5/1682",
+		"volume": "36",
+		"author": [
+			{
+				"family": "Lafer-Sousa",
+				"given": "Rosa"
+			},
+			{
+				"family": "Conway",
+				"given": "Bevil R."
+			},
+			{
+				"family": "Kanwisher",
+				"given": "Nancy G."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					2,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					2,
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/2428428/items/WHQ6HKQB",
+		"type": "article-journal",
+		"abstract": "Inferior temporal cortex (IT) is a key part of the ventral visual pathway implicated in object, face, and scene perception. But how does IT work? Here, I describe an organizational scheme that marries form and function and provides a framework for future research. The scheme consists of a series of stages arranged along the posterior-anterior axis of IT, deﬁned by anatomical connections and functional responses. Each stage comprises a complement of subregions that have a systematic spatial relationship. The organization of each stage is governed by an eccentricity template, and corresponding eccentricity representations across stages are interconnected. Foveal representations take on a role in high-acuity object vision (including face recognition); intermediate representations compute other aspects of object vision such as behavioral valence (using color and surface cues); and peripheral representations encode information about scenes. This multistage, parallelprocessing model invokes an innately determined organization reﬁned by visual experience that is consistent with principles of cortical development. The model is also consistent with principles of evolution, which suggest that visual cortex expanded through replication of retinotopic areas. Finally, the model predicts that the most extensively studied network within IT—the face patches—is not unique but rather one manifestation of a canonical set of operations that reveal general principles of how IT works.",
+		"container-title": "Annual Review of Vision Science",
+		"DOI": "10.1146/annurev-vision-091517-034202",
+		"ISSN": "2374-4642, 2374-4650",
+		"issue": "1",
+		"journalAbbreviation": "Annu. Rev. Vis. Sci.",
+		"language": "en",
+		"note": "Citation Key Alias: conway_organization_2018\nPMID: 30059648",
+		"page": "381-402",
+		"source": "DOI.org (Crossref)",
+		"title": "The Organization and Operation of Inferior Temporal Cortex",
+		"URL": "https://www.annualreviews.org/doi/10.1146/annurev-vision-091517-034202",
+		"volume": "4",
+		"author": [
+			{
+				"family": "Conway",
+				"given": "Bevil R."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					12,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					9,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/2428428/items/VKG9E9IW",
+		"type": "article-journal",
+		"abstract": "The study of color vision encompasses many disciplines, including art, biochemistry, biophysics, brain imaging, cognitive neuroscience, color preferences, colorimetry, computer modelling, design, electrophysiology, language and cognition, molecular genetics, neuroscience, physiological optics, psychophysics and physiological optics. Coupled with the elusive nature of the subjective experience of color, this wide range of disciplines makes the study of color as challenging as it is fascinating. This overview of the special issue Color: Cone Opponency and Beyond outlines the state of the science of color, and points to some of the many questions that remain to be answered in this exciting field.",
+		"collection-title": "Color: cone opponency and beyond",
+		"container-title": "Vision Research",
+		"DOI": "10.1016/j.visres.2018.06.009",
+		"ISSN": "0042-6989",
+		"journalAbbreviation": "Vision Research",
+		"language": "en",
+		"page": "2-6",
+		"source": "ScienceDirect",
+		"title": "A tour of contemporary color vision research",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0042698918301081",
+		"volume": "151",
+		"author": [
+			{
+				"family": "Conway",
+				"given": "Bevil R."
+			},
+			{
+				"family": "Eskew",
+				"given": "Rhea T."
+			},
+			{
+				"family": "Martin",
+				"given": "Paul R."
+			},
+			{
+				"family": "Stockman",
+				"given": "Andrew"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					4,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					10,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/2428428/items/4ULYADWS",
+		"type": "article-journal",
+		"abstract": "Languages vary in their number of color terms. A widely accepted theory proposes that languages evolve, acquiring color terms in a stereotyped sequence. This theory, by Berlin and Kay (BK), is supported by analyzing best exemplars (“focal colors”) of basic color terms in the World Color Survey (WCS) of 110 languages. But the instructions of the WCS were complex and the color chips confounded hue and saturation, which likely impacted focal-color selection. In addition, it is now known that even so-called early-stage languages nonetheless have a complete representation of color distributed across the population. These facts undermine the BK theory. Here we revisit the evolution of color terms using original color-naming data obtained with simple instructions in Tsimane’, an Amazonian culture that has limited contact with industrialized society. We also collected data in Bolivian-Spanish speakers and English speakers. We discovered that information theory analysis of color-naming data was not inﬂuenced by color-chip saturation, which motivated a new analysis of the WCS data. Embedded within a universal pattern in which warm colors (reds, oranges) are always communicated more eﬃciently than cool colors (blues, greens), as languages increase in overall communicative eﬃciency about color, some colors undergo greater increases in communication eﬃciency compared to others. Communication eﬃciency increases ﬁrst for yellow, then brown, then purple. The present analyses and results provide a new framework for understanding the evolution of color terms: what varies among cultures is not whether colors are seen diﬀerently, but the extent to which color is useful.",
+		"container-title": "Cognition",
+		"DOI": "10.1016/j.cognition.2019.104086",
+		"ISSN": "00100277",
+		"journalAbbreviation": "Cognition",
+		"language": "en",
+		"page": "104086",
+		"source": "DOI.org (Crossref)",
+		"title": "Communication efficiency of color naming across languages provides a new framework for the evolution of color terms",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S0010027719302604",
+		"volume": "195",
+		"author": [
+			{
+				"family": "Conway",
+				"given": "Bevil R."
+			},
+			{
+				"family": "Ratnasingam",
+				"given": "Sivalogeswaran"
+			},
+			{
+				"family": "Jara-Ettinger",
+				"given": "Julian"
+			},
+			{
+				"family": "Futrell",
+				"given": "Richard"
+			},
+			{
+				"family": "Gibson",
+				"given": "Edward"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					5
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/2428428/items/F5X69FTH",
+		"type": "article-journal",
+		"container-title": "Journal of Vision",
+		"DOI": "10.1167/14.8.12",
+		"ISSN": "1534-7362",
+		"issue": "8",
+		"journalAbbreviation": "Journal of Vision",
+		"language": "en",
+		"note": "publisher: The Association for Research in Vision and Ophthalmology",
+		"page": "12-12",
+		"source": "jov.arvojournals.org",
+		"title": "Color-detection thresholds in rhesus macaque monkeys and humans",
+		"URL": "https://jov.arvojournals.org/article.aspx?articleid=2194035",
+		"volume": "14",
+		"author": [
+			{
+				"family": "Gagin",
+				"given": "Galina"
+			},
+			{
+				"family": "Bohon",
+				"given": "Kaitlin S."
+			},
+			{
+				"family": "Butensky",
+				"given": "Adam"
+			},
+			{
+				"family": "Gates",
+				"given": "Monica A."
+			},
+			{
+				"family": "Hu",
+				"given": "Jiun-Yiing"
+			},
+			{
+				"family": "Lafer-Sousa",
+				"given": "Rosa"
+			},
+			{
+				"family": "Pulumo",
+				"given": "Reitumetse L."
+			},
+			{
+				"family": "Qu",
+				"given": "Jane"
+			},
+			{
+				"family": "Stoughton",
+				"given": "Cleo M."
+			},
+			{
+				"family": "Swanbeck",
+				"given": "Sonja N."
+			},
+			{
+				"family": "Conway",
+				"given": "Bevil R."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					6
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					7,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/2428428/items/S4D5IQ53",
+		"type": "article-journal",
+		"container-title": "Journal of Vision",
+		"DOI": "10.1167/18.10.863",
+		"ISSN": "1534-7362",
+		"issue": "10",
+		"journalAbbreviation": "Journal of Vision",
+		"language": "en",
+		"note": "publisher: The Association for Research in Vision and Ophthalmology",
+		"page": "863-863",
+		"source": "jov.arvojournals.org",
+		"title": "Paradoxical memory color for faces",
+		"URL": "https://jov.arvojournals.org/article.aspx?articleid=2699852",
+		"volume": "18",
+		"author": [
+			{
+				"family": "Lafer-Sousa",
+				"given": "Rosa"
+			},
+			{
+				"family": "Hasantash",
+				"given": "Maryam"
+			},
+			{
+				"family": "Afraz",
+				"given": "Arash"
+			},
+			{
+				"family": "Conway",
+				"given": "Bevil"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					11
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					9,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/2428428/items/A8D2DLBK",
+		"type": "article-journal",
+		"abstract": "<p>Previous work has shown that under viewing conditions that break retinal mechanisms for color, one class of objects appears paradoxically colored: faces, and they look green. Interpreted within a Bayesian-observer framework, this observation makes the surprising prediction that face-selective neurons are sensitive to color and weakly biased for colors that elicit L&gt;M cone activity (warm colors). We tested this hypothesis by measuring color-tuning responses of face-selective cells in alert macaque monkey, using fMRI-guided microelectrode recording of the middle and anterior face patches and carefully color-calibrated stimuli. The population of face-selective neurons showed significant color tuning when assessed using images that preserved the luminance contrast relationships of the original face photographs. A Fourier analysis of the color-tuning responses uncovered two components. The first harmonic was biased towards the L&gt;M colors, consistent with the prediction. Interestingly, the second harmonic aligned with the S-cone cardinal axis, which may relate to the computation of animacy by IT cells.</p><h3>Significance</h3> <p>The results provide the first quantitative measurements of the color tuning properties of face-selective neurons. The results provide insight into the neural mechanisms that could support the role of color in face perception.</p>",
+		"container-title": "bioRxiv",
+		"DOI": "10.1101/863779",
+		"language": "en",
+		"license": "© 2019, Posted by Cold Spring Harbor Laboratory. This article is a US Government work. It is not subject to copyright under 17 USC 105 and is also made available for use under a CC0 license",
+		"note": "publisher: Cold Spring Harbor Laboratory\nsection: New Results",
+		"page": "863779",
+		"source": "www.biorxiv.org",
+		"title": "Color tuning of neurons in face patches of macaque inferior temporal cortex",
+		"URL": "https://www.biorxiv.org/content/10.1101/863779v3",
+		"author": [
+			{
+				"family": "Duyck",
+				"given": "Marianne"
+			},
+			{
+				"family": "Gruen",
+				"given": "Tessa J."
+			},
+			{
+				"family": "Tello",
+				"given": "Lawrence Y."
+			},
+			{
+				"family": "Eastman",
+				"given": "Serena"
+			},
+			{
+				"family": "Fuller-Deets",
+				"given": "Joshua"
+			},
+			{
+				"family": "Conway",
+				"given": "Bevil R."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					11
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					12,
+					13
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/2428428/items/RXSN5HQB",
+		"type": "article-journal",
+		"abstract": "What is color vision for? Here we compared the extent to which memory modulates color appearance of objects and faces. Participants matched the colors of stimuli illuminated by low-pressure sodium light, which renders scenes monochromatic. Matches for fruit were not predicted by stimulus identity. In contrast, matches for faces were predictable, but surprising: faces appeared green and looked sick. The paradoxical face-color percept could be explained by a Bayesian observer model constrained by efficient coding. The color-matching data suggest that the face-color prior is established by visual signals arising from the recently evolved L-M cone system, not the older S-cone channel. Taken together, the results show that when retinal mechanisms of color vision are impaired, the impact of memory on color perception is greatest for face color, supporting the idea that trichromatic color plays an important role in social communication.",
+		"container-title": "Nature Communications",
+		"DOI": "10.1038/s41467-019-10073-8",
+		"ISSN": "2041-1723",
+		"issue": "1",
+		"language": "en",
+		"license": "2019 This is a U.S. government work and not under copyright protection in the U.S.; foreign copyright protection may apply",
+		"note": "number: 1\npublisher: Nature Publishing Group",
+		"page": "3010",
+		"source": "www.nature.com",
+		"title": "Paradoxical impact of memory on color appearance of faces",
+		"URL": "https://www.nature.com/articles/s41467-019-10073-8",
+		"volume": "10",
+		"author": [
+			{
+				"family": "Hasantash",
+				"given": "Maryam"
+			},
+			{
+				"family": "Lafer-Sousa",
+				"given": "Rosa"
+			},
+			{
+				"family": "Afraz",
+				"given": "Arash"
+			},
+			{
+				"family": "Conway",
+				"given": "Bevil R."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					4
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					7,
+					8
+				]
+			]
+		}
+	}
+]
