@@ -3,7 +3,7 @@ layout: member
 category: staff
 title: Danny Garside
 image: danny-garside.png
-role: Post-doctoral Visting Fellow
+role: Postdoctoral Visting Fellow
 permalink: '/team/danny-garside'
 social:
     orcid: https://orcid.org/0000-0002-4579-003X
