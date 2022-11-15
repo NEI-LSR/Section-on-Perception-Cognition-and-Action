@@ -7,7 +7,7 @@ role: Post Baccalaureate Research Fellow
 permalink: '/team/alexis-green'
 social:
     orcid: 
-    github: 
+    github: https://github.com/acrgreen
     website: 
     google-scholar: 
     mastodon: 
