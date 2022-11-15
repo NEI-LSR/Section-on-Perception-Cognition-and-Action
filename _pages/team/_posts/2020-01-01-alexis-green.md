@@ -14,8 +14,7 @@ social:
     twitter: 
     linkedin: 
 education:
- - 
- - 
+ - Spelman College | B.S. Biochemistry
 ---
 
 Lorem ipsum
