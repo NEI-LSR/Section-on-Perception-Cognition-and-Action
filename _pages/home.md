@@ -5,6 +5,9 @@ sitemap: false
 permalink: /
 ---
 
+![](images/team/ConwayLabJune2022LR-1536x1024.jpg)
+*Section on Perception, Cognition & Action, June 2022. l-r: Stuart Duffied, Ashay (guest), Bevil, Felix Bartsch,  Audrey Chang, Spencer Loggia, Shriya Awasthi, Danny Garside, Alexis Green, Hannah Selwyn, Marianne Duyck, Nora Sachse*
+
 Welcome to the Lab.
 
 We are the Section on Perception, Cognition, and Action at the Laboratory of Sensorimotor Research, within the National Eye Institute. 
