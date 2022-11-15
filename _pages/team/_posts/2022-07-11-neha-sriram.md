@@ -7,12 +7,12 @@ role: Post Baccalaureate Research Fellow
 permalink: '/team/neha-sriram'
 social:
     orcid: 
-    github: 
+    github: https://github.com/NehaSriram
     website: 
     google-scholar: 
     mastodon: 
     twitter: 
-    linkedin: https://github.com/NehaSriram
+    linkedin: https://www.linkedin.com/in/neha-sriram-309002203/
 education:
  MSc. Biological Sciences at BITS Pilani, Rajasthan, India
  
