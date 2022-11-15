@@ -12,7 +12,7 @@ social:
     google-scholar: 
     mastodon: 
     twitter: 
-    linkedin: 
+    linkedin: https://github.com/NehaSriram
 education:
  MSc. Biological Sciences at BITS Pilani, Rajasthan, India
  
