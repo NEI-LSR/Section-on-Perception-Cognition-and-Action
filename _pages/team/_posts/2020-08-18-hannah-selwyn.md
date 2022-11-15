@@ -6,7 +6,7 @@ image:
 role: Postbaccalaureate IRTA Fellow
 permalink: '/team/hannah-selwyn'
 social:
-    orcid:
+    orcid: https://orcid.org/0000-0003-1570-9576
     github: https://github.com/hmselwyn
     website: 
     google-scholar: 
