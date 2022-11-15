@@ -2,7 +2,7 @@
 layout: member
 category: staff
 title: Stuart Duffield
-image: stuart-duffield.png
+image: stuart-duffield.jpg
 role: Postbaccalaureate Training Fellow
 permalink: '/team/stuart-duffield'
 education:
