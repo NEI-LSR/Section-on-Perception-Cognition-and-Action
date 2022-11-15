@@ -2,7 +2,7 @@
 layout: member
 category: staff
 title: Neha Sriram
-image: neha.png
+image: neha.jpg
 role: Post Baccalaureate Research Fellow
 permalink: '/team/neha-sriram'
 social:
