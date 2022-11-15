@@ -1,11 +1,10 @@
-
 ---
 layout: member
 category: staff
 title: James Cavnaugh
 image: james-cavanaugh.png
 role: Staff Scientist
-permalink: '/team/danny-garside'
+permalink: '/team/james-cavanaugh'
 social:
     github: https://github.com/jccava
 
