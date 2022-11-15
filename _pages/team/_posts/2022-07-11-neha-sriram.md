@@ -15,7 +15,7 @@ social:
     linkedin: 
 education:
  MSc. Biological Sciences at BITS Pilani, Rajasthan, India
- - 
+ 
 ---
 
 Lorem ipsum
