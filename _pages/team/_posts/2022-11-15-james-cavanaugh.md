@@ -1,7 +1,7 @@
 ---
 layout: member
 category: staff
-title: James Cavnaugh
+title: James Cavanaugh
 image: james-cavanaugh.png
 role: Staff Scientist
 permalink: '/team/james-cavanaugh'
