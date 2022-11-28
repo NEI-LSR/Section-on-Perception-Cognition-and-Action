@@ -1,6 +1,6 @@
 ---
 layout: member
-category: staff
+category: Post-Bac
 title: Alexis Green
 image: alexis-green.png
 role: Post Baccalaureate Research Fellow

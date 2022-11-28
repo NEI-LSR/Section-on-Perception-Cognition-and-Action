@@ -1,6 +1,6 @@
 ---
 layout: member
-category: staff
+category: Post-Bac
 title: Spencer Loggia
 image: spencerloggia.jpg
 role: Contractor

@@ -1,6 +1,6 @@
 ---
 layout: member
-category: staff
+category: Staff Scientist
 title: Ramon Bartolo
 image: ramon_bartolo.jpg
 role: Staff Scientist

@@ -1,6 +1,6 @@
 ---
 layout: member
-category: staff
+category: Post-Doc
 title: Kurt Braunlich
 image: 
 role: Postdoctoral Fellow

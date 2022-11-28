@@ -1,6 +1,6 @@
 ---
 layout: member
-category: student
+category: Grad Student
 title: Felix Bartsch
 image: 
 role: Graduate Student Fellow
