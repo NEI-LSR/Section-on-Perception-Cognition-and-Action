@@ -1,6 +1,6 @@
 ---
 layout: member
-category: staff
+category: PI
 title: Bevil Conway
 image: bevil-conway.png
 role: Senior Investigator
