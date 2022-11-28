@@ -1,6 +1,6 @@
 ---
 layout: member
-category: staff
+category: Post-Doc
 title: Danny Garside
 image: danny-garside.png
 role: Postdoctoral Visting Fellow

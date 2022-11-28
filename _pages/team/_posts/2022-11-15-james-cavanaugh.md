@@ -1,6 +1,6 @@
 ---
 layout: member
-category: staff
+category: Staff Scientist
 title: James Cavanaugh
 image: james-cavanaugh.png
 role: Staff Scientist

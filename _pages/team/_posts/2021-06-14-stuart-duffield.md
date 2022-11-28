@@ -1,6 +1,6 @@
 ---
 layout: member
-category: staff
+category: Post-Bac
 title: Stuart Duffield
 image: stuart-duffield.jpg
 role: Postbaccalaureate Training Fellow

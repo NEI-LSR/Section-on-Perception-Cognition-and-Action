@@ -1,6 +1,6 @@
 ---
 layout: member
-category: staff
+category: Post-Bac
 title: Neha Sriram
 image: neha.jpg
 role: Post Baccalaureate Research Fellow

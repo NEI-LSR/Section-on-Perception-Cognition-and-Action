@@ -1,6 +1,6 @@
 ---
 layout: member
-category: staff
+category: Post-Bac
 title: Hannah Selwyn
 image:
 role: Postbaccalaureate IRTA Fellow
