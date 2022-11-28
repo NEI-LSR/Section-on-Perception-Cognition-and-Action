@@ -9,7 +9,9 @@ permalink: /team/
 
 <!-- Staff -->
 
-{% assign members = site.posts | where: 'category', 'staff' | sort: 'date' %}
+<h2> PI </h2>
+
+{% assign members = site.posts | where: 'category', 'PI' | sort: 'date' %}
 {% for member in members %}
 <div class="card team-member-card">
     <div class="row mt-3">
