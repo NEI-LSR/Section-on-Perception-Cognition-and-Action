@@ -1,10 +1,12 @@
 ---
-title: "Vacancies"
+title: "Openings"
 layout: default
 excerpt: "Openings"
 sitemap: false
-permalink: /vacancies
+permalink: /openings
 ---
 
-We are always looking for new group members with X, Y and Z.
-Lorem ipsum
+We invariably have open positions for postdocs, postbacs and technicians. 
+If you are interested in joining the lab please <a href="bevil@nih.gov">email Bevil</a>.
+
+
