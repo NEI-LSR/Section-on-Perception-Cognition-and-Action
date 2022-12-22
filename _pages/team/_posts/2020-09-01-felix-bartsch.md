@@ -14,7 +14,7 @@ social:
     twitter: 
     linkedin: https://www.linkedin.com/in/felix-bartsch-4bb67b99/
 education:
- - in progress: PhD at University of Maryland (Program in Neuroscience and Cognitive Science)
+ - in progress, PhD at University of Maryland (Program in Neuroscience and Cognitive Science)
  - BSc at University of Florida (Interdisciplinary program in Neuroscience)
 ---
 

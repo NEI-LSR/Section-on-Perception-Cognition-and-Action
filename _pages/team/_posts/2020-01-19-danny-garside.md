@@ -14,7 +14,7 @@ social:
     twitter: https://twitter.com/da5nsy
     linkedin: https://www.linkedin.com/in/da5nsy/
 education:
- - 2015-2019, PhD, University College London (Thesis: Museum Lighting, Colour Constancy and Melanopsin)
+ - 2015-2019, PhD, University College London (Thesis - "Museum Lighting, Colour Constancy and Melanopsin")
  - 2010-2013, BSc, University of Westminster (Photography and Digital Imaging)
 ---
 
