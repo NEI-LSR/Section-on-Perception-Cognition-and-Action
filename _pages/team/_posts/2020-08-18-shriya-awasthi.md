@@ -1,6 +1,6 @@
 ---
 layout: member
-category: alumni
+category: Alumni
 title: Shriya Awasthi
 image: filler.png
 role: Postbaccalaureate IRTA Fellow
