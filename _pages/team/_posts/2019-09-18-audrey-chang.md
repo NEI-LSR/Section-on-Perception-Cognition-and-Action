@@ -14,7 +14,7 @@ social:
     twitter: 
     linkedin: 
 education:
-- Current: MD-PhD candidate at NYU Grossman School of Medicine
-- 2015-19: B.A. (Cognitive Science, Behavioral Biology, & Psychology), Johns Hopkins University
+- Current, MD-PhD candidate at NYU Grossman School of Medicine
+- 2015-19, B.A. (Cognitive Science, Behavioral Biology, & Psychology), Johns Hopkins University
 ---
 Next step: MD-PhD candidate at NYU Grossman School of Medicine
