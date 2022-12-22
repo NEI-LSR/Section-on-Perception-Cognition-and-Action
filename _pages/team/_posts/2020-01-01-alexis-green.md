@@ -2,7 +2,7 @@
 layout: member
 category: Post-Bac
 title: Alexis Green
-image: alexis-green.png
+image: filler.png
 role: Post Baccalaureate Research Fellow
 permalink: '/team/alexis-green'
 social:

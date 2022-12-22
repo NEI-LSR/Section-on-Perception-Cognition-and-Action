@@ -1,21 +1,19 @@
 ---
 layout: member
-category: PI
-title: Bevil Conway
+category: alumni
+title: Audrey Chang
 image: filler.png
-role: Senior Investigator
-permalink: '/team/bevil-conway'
+role: Postbaccalaureate IRTA Fellow
+permalink: '/team/audrey-chang'
 social:
     orcid: 
     github: 
     website: 
     google-scholar: 
-    mastodon: 
+    mastodon:
     twitter: 
     linkedin: 
 education:
  - 
- - 
 ---
 
-Lorem ipsum

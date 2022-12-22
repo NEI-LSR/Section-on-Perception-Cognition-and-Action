@@ -2,7 +2,7 @@
 layout: member
 category: Staff Scientist
 title: James Cavanaugh
-image: james-cavanaugh.png
+image: filler.png
 role: Staff Scientist
 permalink: '/team/james-cavanaugh'
 social:

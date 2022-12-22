@@ -2,7 +2,7 @@
 layout: member
 category: Post-Bac
 title: Hannah Selwyn
-image:
+image: filler.png
 role: Postbaccalaureate IRTA Fellow
 permalink: '/team/hannah-selwyn'
 social:

@@ -2,7 +2,7 @@
 layout: member
 category: Grad Student
 title: Felix Bartsch
-image: 
+image: filler.png
 role: Graduate Student Fellow
 permalink: '/team/felix-bartsch'
 social:

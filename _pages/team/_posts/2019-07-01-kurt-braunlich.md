@@ -2,7 +2,7 @@
 layout: member
 category: Post-Doc
 title: Kurt Braunlich
-image: 
+image: filler.png
 role: Postdoctoral Fellow
 permalink: '/team/kurt-braunlich'
 social:
