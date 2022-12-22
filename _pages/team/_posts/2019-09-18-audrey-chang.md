@@ -1,6 +1,6 @@
 ---
 layout: member
-category: alumni
+category: Alumni
 title: Audrey Chang
 image: filler.png
 role: Postbaccalaureate IRTA Fellow
