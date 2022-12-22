@@ -1,7 +1,7 @@
 ---
 layout: member
-category: Post-Bac
-title: Hannah Selwyn
+category: alumni
+title: Shriya Awasthi
 image: filler.png
 role: Postbaccalaureate IRTA Fellow
 permalink: '/team/shriya-awasthi'
