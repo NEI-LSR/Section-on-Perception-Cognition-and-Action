@@ -9,7 +9,7 @@ social:
     orcid: 0000-0001-7715-9253
     github: 
     website: https://bevilconway.com/
-    google-scholar: 
+    google-scholar: https://scholar.google.com/citations?user=mlMcFxMAAAAJ&hl=en&oi=ao
     mastodon: 
     twitter: 
     linkedin: https://www.linkedin.com/in/bevil-conway-5503507a/
